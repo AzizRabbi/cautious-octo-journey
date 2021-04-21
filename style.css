@@ -80,37 +80,3 @@ nav{
     float:left;
     background-color: white;
   }
-/*
-.img ul {
-    height: 430px;
-    width: 20000px;
-    margin-top:10px;
-  
-  }
- 
-  .img li {
-    float: left;
-    display: inline;
-    margin-left: 70px;
-  }
-  
-  .img img {
-      max-height:430px;
-      width: auto;
-  }
-.login,
-.contact,
-.story,
-.project,
-.booking{
-    text-decoration:none;
-}
-
-.call,
-.fb,
-.cart{
-    flex: 1;
-    margin: 2px;
-    
-    justify-content: space-around;
-}
